@@ -38,7 +38,7 @@ categories:
 
 themes:
   - Information Technology
-    - Data and informatics
+  #  - Data and informatics
   # - Advanced communications
   #     - Optical communications
   #     - Quantum communications
@@ -46,7 +46,7 @@ themes:
   #
   # - Bioscience
   #     - Biomaterials
-  #     - Biomolecular characterization
+        - Biomolecular characterization
   #     - Bioprocessing
   #     - Cell biology
   #     - Engineering or synthetic biology
@@ -73,7 +73,7 @@ themes:
   #     - Chemical engineering and processing
   #     - Chemical thermodynamics and chemical properties
   #     - Molecular characterization
-  #     - Theoretical chemistry and modeling
+        - Theoretical chemistry and modeling
   #     - Thermochemical properties
   #
   # - Electronics
@@ -129,7 +129,7 @@ themes:
   #     - Regenerative medicine
   #
   # - Information Technology
-  #     - Artificial intelligence
+        - Artificial intelligence
   #     - Biometrics
   #     - Cloud computing and virtualization
   #     - Complex systems
@@ -177,7 +177,7 @@ themes:
   #
   # - Manufacturing
   #     - Additive manufacturing
-  #     - Biomanufacturing
+        - Biomanufacturing
   #     - Factory communications
   #     - Factory operations planning and control
   #     - Interoperability in manufacturing
