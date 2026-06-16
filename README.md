@@ -13,4 +13,5 @@ your README should contain:
    - Alexander Grishaev, MML, Biomlecular Measurement Division, Biomolecular Structure and Function Group, alexander.grishaev@nist.gov
 1. Related Material
    - (https://www.nist.gov/programs-projects/biomanufacturing-initiative)
-1. Reference publication: "Critical assessment of RNA and DNA structure predictions via artificial intelligence: the imitation game"
+1. Reference publication: "Critical assessment of RNA and DNA structure predictions via artificial intelligence: the imitation game" https://pubs.acs.org/doi/full/10.1021/acs.jcim.5c00245
+   C. Bergonzo, A. Grishaev Journal of Chemical Information and Modeling 65 (7), 3544-3554
